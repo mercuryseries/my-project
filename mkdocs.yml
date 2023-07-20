@@ -1,0 +1,6 @@
+site_name: My Project
+theme:
+  name: material
+extra_css:
+  - https://fonts.googleapis.com/icon?family=Material+Icons
+  - assets/css/custom.css
